@@ -3,7 +3,7 @@ module github.com/chyroc/write-deprecated
 go 1.17
 
 require (
-	github.com/urfave/cli/v2 v2.20.2
+	github.com/urfave/cli/v2 v2.20.3
 	golang.org/x/tools v0.2.0
 )
 
